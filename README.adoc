@@ -4,7 +4,7 @@ Mission: Make an app that runs in iOS6 and is distributed via AppStore in 2020.
 
 === This was **not** possible.
 
-Conclusion first: Xcode11 and Xcode10 require `IPHONEOS_DEPLOYMENT_TARGET` to be 8.0 or upper.
+Conclusion first: Xcode11 and Xcode10 require `IPHONEOS_DEPLOYMENT_TARGET` to be 8.0 or upper. However we can use Xcode11 and build and distribute an app with such target via Adhoc and it works perfectly!.
 
 === Some Notes
 
